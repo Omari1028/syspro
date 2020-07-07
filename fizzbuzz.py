@@ -1,6 +1,6 @@
 def fb(n):
 
-if n % 3 == 0 and  n % 5 == 0:
+if n % 3 == 0 and n % 5 == 0:
  return "FuzzBizz"
 
 elif n % 5 == 0:
